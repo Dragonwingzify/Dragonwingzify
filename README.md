@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **React, MongoDB and Remix.run**
 
-- 📫 How to reach me **Dennis_nhanly@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
