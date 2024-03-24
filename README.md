@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonwingzify&label=Profile%20views&color=0e75b6&style=flat" alt="dragonwingzify" /> </p>
 
-- 🔭 I’m currently an intern at Conversio and working with **Web-tools**
+- 🔭 I’m currently looking for work **Web-tools**
 
 - 🌱 I’m currently learning **React**
 
